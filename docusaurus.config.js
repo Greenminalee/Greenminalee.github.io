@@ -18,7 +18,7 @@ const config = {
 
   title: 'samin',
   tagline: '배운것, 구현한것, 생각을 기록합니다',
-  url: 'https://greenminalee.github.io/',
+  url: '/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
