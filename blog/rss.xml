@@ -4,10 +4,16 @@
         <title>samin Blog</title>
         <link>https://greenminalee.github.io/blog</link>
         <description>samin Blog</description>
-        <lastBuildDate>Sat, 10 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[도큐사우르스배포시에러]]></title>
+            <link>https://greenminalee.github.io/blog/2022/12/11/도큐사우르스배포시에러</link>
+            <guid>/2022/12/11/도큐사우르스배포시에러</guid>
+            <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[첫 블로그]]></title>
             <link>https://greenminalee.github.io/blog/첫-블로그</link>
