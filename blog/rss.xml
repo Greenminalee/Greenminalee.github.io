@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>samin Blog</title>
+        <link>https://greenminalee.github.io/blog</link>
+        <description>samin Blog</description>
+        <lastBuildDate>Sat, 10 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[첫 블로그]]></title>
+            <link>https://greenminalee.github.io/blog/첫-블로그</link>
+            <guid>첫-블로그</guid>
+            <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
+            <category>hello</category>
+            <category>docusaurus-v2</category>
+        </item>
+    </channel>
+</rss>
