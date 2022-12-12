@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>samin Blog</title>
         <link>https://greenminalee.github.io/blog</link>
@@ -13,6 +13,8 @@
             <link>https://greenminalee.github.io/blog/2022/12/11/도큐사우르스배포시에러</link>
             <guid>/2022/12/11/도큐사우르스배포시에러</guid>
             <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[yarn을 npm으로 변경해주었다]]></description>
+            <content:encoded><![CDATA[<p>yarn을 npm으로 변경해주었다</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[첫 블로그]]></title>
